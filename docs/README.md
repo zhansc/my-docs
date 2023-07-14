@@ -12,6 +12,7 @@
   - docsify init ./docs
  ### 本地预览 docsify serve docs
  ### 自定义文档
+ ### 在das-ci平台配置触发规则、部署到docker
 
 [**返回首页**](README.md)
 
